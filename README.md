@@ -4,9 +4,9 @@
 An expense tracker app that takes new custom bills as input and adds them to the application simultaneously storing them in a cloud database. It also has a filter functionality allowing you to filter expenses by year and bar charts for quantitative assessment.
 
 
-## Demo
 
-- [demoLink](https://drive.google.com/file/d/1wmjE4ZHTqN6q1UoGUPzS40AvIkGTm8jJ/view?usp=sharing)
+
+
 
 
 
